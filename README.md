@@ -7,6 +7,6 @@
 
 # 网络架构
 网络的主体架构如下：
-![image](https://github.com/isthegoal/kdd_cup_2018_deepst_baseline/image/8)1CID}AG8C{WXZI$U2AOYF.png)
+![image](https://github.com/isthegoal/kdd_cup_2018_deepst_baseline/blob/master/images/image11.png)
 
 
