@@ -1,7 +1,7 @@
 # 说明
 本程序是参加 kdd cup 2018竞赛所写的baseline
 
-使用的模型是[https://github.com/lucktroy/DeepST]（从此）处修改过来的时空残差网络模型 
+使用的模型是[从此](https://github.com/lucktroy/DeepST)处修改过来的时空残差网络模型 
 
 对该模型解释，请参看附带的ppt
 
